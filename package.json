@@ -19,7 +19,7 @@
     "react-dom": "^18.2.0",
     "react-pdf": "^7.0.3",
     "react-router-dom": "^6.11.2",
-    "signify-ts": "https://github.com/WebOfTrust/signify-ts",
+    "signify-ts": "https://github.com/WebOfTrust/signify-ts#45c5071a5f0bc3064c4c5060605841ab97955ac4",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
